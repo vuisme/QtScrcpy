@@ -4,283 +4,290 @@
 <context>
     <name>Dialog</name>
     <message>
-        <source>Show</source>
-        <translation>Hiển thị</translation>
+        <source>show</source>
+        <translation>show</translation>
     </message>
     <message>
-        <source>Quit</source>
-        <translation>Thoát</translation>
+        <source>quit</source>
+        <translation>quit</translation>
     </message>
     <message>
-        <source>Original</source>
-        <translation>Nguyên bản</translation>
+        <source>original</source>
+        <translation>original</translation>
     </message>
     <message>
-        <source>No Lock</source>
-        <translation>Không khóa</translation>
+        <source>no lock</source>
+        <translation>no lock</translation>
     </message>
     <message>
         <source>Notice</source>
-        <translation>Thông báo</translation>
+        <translation>Notice</translation>
     </message>
     <message>
         <source>Hidden here!</source>
-        <translation>Ẩn ở đây!</translation>
+        <translation>Hidden here!</translation>
     </message>
     <message>
-        <source>Select Path</source>
-        <translation>Chọn đường dẫn</translation>
+        <source>select path</source>
+        <translation>select path</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>This software is completely open source and free. Use it at your own risk. You can download it at the following address:</source>
-        <translation>Phần mềm này hoàn toàn mã nguồn mở và miễn phí. Sử dụng tại rủi ro của bạn. Bạn có thể tải nó tại địa chỉ sau:</translation>
+        <translation>This software is completely open source and free. Use it at your own risk. You can download it at the following address:</translation>
     </message>
 </context>
 <context>
     <name>ToolForm</name>
     <message>
         <source>Tool</source>
-        <translation>Công cụ</translation>
+        <translation>Tool</translation>
     </message>
     <message>
-        <source>Full Screen</source>
-        <translation>Toàn màn hình</translation>
+        <source>full screen</source>
+        <translation>full screen</translation>
     </message>
     <message>
-        <source>Expand Notify</source>
-        <translation>Mở rộng thông báo</translation>
+        <source>expand notify</source>
+        <translation>expand notify</translation>
     </message>
     <message>
-        <source>Touch Switch</source>
-        <translation>Chuyển đổi cảm ứng</translation>
+        <source>touch switch</source>
+        <translation>touch switch</translation>
     </message>
     <message>
-        <source>Close Screen</source>
-        <translation>Đóng màn hình</translation>
+        <source>close screen</source>
+        <translation>close screen</translation>
     </message>
     <message>
-        <source>Power</source>
-        <translation>Nguồn</translation>
+        <source>power</source>
+        <translation>power</translation>
     </message>
     <message>
-        <source>Volume Up</source>
-        <translation>Tăng âm lượng</translation>
+        <source>volume up</source>
+        <translation>volume up</translation>
     </message>
     <message>
-        <source>Volume Down</source>
-        <translation>Giảm âm lượng</translation>
+        <source>volume down</source>
+        <translation>volume down</translation>
     </message>
     <message>
-        <source>App Switch</source>
-        <translation>Chuyển đổi ứng dụng</translation>
+        <source>app switch</source>
+        <translation>app switch</translation>
     </message>
     <message>
-    <source>menu</source>
-    <translation>Danh sách</translation>
-</message>
-<message>
-    <source>home</source>
-    <translation>Trang chủ</translation>
-</message>
-<message>
-    <source>return</source>
-    <translation>Quay lại</translation>
-</message>
-<message>
-    <source>screen shot</source>
-    <translation>Chụp ảnh màn hình</translation>
-</message>
-<message>
-    <source>open screen</source>
-    <translation>Mở màn hình</translation>
-</message>
-<message>
-    <source>group control</source>
-    <translation>Kiểm soát nhóm</translation>
-</message>
+        <source>menu</source>
+        <translation>menu</translation>
+    </message>
+    <message>
+        <source>home</source>
+        <translation>home</translation>
+    </message>
+    <message>
+        <source>return</source>
+        <translation>return</translation>
+    </message>
+    <message>
+        <source>screen shot</source>
+        <translation>screen shot</translation>
+    </message>
+    <message>
+        <source>open screen</source>
+        <translation>open screen</translation>
+    </message>
+    <message>
+        <source>group control</source>
+        <translation>group control</translation>
+    </message>
+</context>
 <context>
     <name>VideoForm</name>
     <message>
         <source>file does not exist</source>
-        <translation>Tệp tin không tồn tại</translation>
+        <translation>file does not exist</translation>
     </message>
 </context>
 <context>
     <name>Widget</name>
     <message>
         <source>Wireless</source>
-        <translation>Không dây</translation>
+        <translation>Wireless</translation>
     </message>
     <message>
         <source>wireless connect</source>
-        <translation>Kết nối không dây</translation>
+        <translation>wireless connect</translation>
     </message>
     <message>
         <source>wireless disconnect</source>
-        <translation>Ngắt kết nối không dây</translation>
+        <translation>wireless disconnect</translation>
     </message>
     <message>
         <source>Start Config</source>
-        <translation>Bắt đầu Cấu hình</translation>
+        <translation>Start Config</translation>
     </message>
     <message>
         <source>record save path:</source>
-        <translation>Đường dẫn lưu ghi âm:</translation>
+        <translation>record save path:</translation>
     </message>
     <message>
         <source>select path</source>
-        <translation>Chọn đường dẫn</translation>
+        <translation>select path</translation>
     </message>
     <message>
         <source>record format：</source>
-        <translation>Định dạng ghi âm：</translation>
+        <translation>record format:</translation>
     </message>
     <message>
         <source>record screen</source>
-        <translation>Ghi màn hình</translation>
+        <translation>record screen</translation>
     </message>
     <message>
         <source>frameless</source>
-        <translation>Không khung</translation>
+        <translation>frameless</translation>
     </message>
     <message>
         <source>Use Simple Mode</source>
-        <translation>Sử dụng Chế độ Đơn giản</translation>
+        <translatorcomment>Use Simple Mode</translatorcomment>
+        <translation>Use Simple Mode</translation>
     </message>
     <message>
         <source>Simple Mode</source>
-        <translation>Chế độ Đơn giản</translation>
+        <translatorcomment>Simple Mode</translatorcomment>
+        <translation>Simple Mode</translation>
     </message>
     <message>
         <source>WIFI Connect</source>
-        <translation>Kết nối WIFI</translation>
+        <translatorcomment>WIFI Connect</translatorcomment>
+        <translation>WIFI Connect</translation>
     </message>
     <message>
         <source>USB Connect</source>
-        <translation>Kết nối USB</translation>
+        <translatorcomment>USB Connect</translatorcomment>
+        <translation>USB Connect</translation>
     </message>
     <message>
-    <source>Double click to connect:</source>
-    <translation>Nhấn đúp để kết nối:</translation>
+        <source>Double click to connect:</source>
+        <translation>Double click to connect:</translation>
     </message>
     <message>
         <source>lock orientation:</source>
-        <translation>Khóa hướng:</translation>
+        <translation>lock orientation:</translation>
     </message>
     <message>
         <source>show fps</source>
-        <translation>Hiển thị fps</translation>
+        <translation>show fps</translation>
     </message>
     <message>
         <source>stay awake</source>
-        <translation>Giữ tỉnh</translation>
+        <translation>stay awake</translation>
     </message>
     <message>
         <source>device name:</source>
-        <translation>Tên thiết bị:</translation>
+        <translatorcomment>device name:</translatorcomment>
+        <translation>device name:</translation>
     </message>
     <message>
         <source>update name</source>
-        <translation>Cập nhật tên</translation>
+        <translatorcomment>update name</translatorcomment>
+        <translation>update name</translation>
     </message>
     <message>
         <source>stop all server</source>
-        <translation>Dừng tất cả các máy chủ</translation>
+        <translation>stop all server</translation>
     </message>
     <message>
         <source>adb command:</source>
-        <translation>Lệnh adb:</translation>
+        <translation>adb command:</translation>
     </message>
     <message>
         <source>terminate</source>
-        <translation>Kết thúc</translation>
+        <translation>terminate</translation>
     </message>
     <message>
         <source>execute</source>
-        <translation>Thực hiện</translation>
+        <translation>execute</translation>
     </message>
     <message>
         <source>clear</source>
-        <translation>Xóa</translation>
+        <translation>clear</translation>
     </message>
     <message>
         <source>reverse connection</source>
-        <translation>Kết nối ngược</translation>
+        <translation>reverse connection</translation>
     </message>
     <message>
         <source>background record</source>
-        <translation>Ghi âm nền</translation>
+        <translation>background record</translation>
     </message>
     <message>
         <source>screen-off</source>
-        <translation>Tắt màn hình</translation>
+        <translation>screen-off</translation>
     </message>
     <message>
         <source>apply</source>
-        <translation>Áp dụng</translation>
+        <translation>apply</translation>
     </message>
     <message>
         <source>max size:</source>
-        <translation>Kích thước tối đa:</translation>
+        <translation>max size:</translation>
     </message>
     <message>
         <source>always on top</source>
-        <translation>Luôn ở trên cùng</translation>
+        <translation>always on top</translation>
     </message>
     <message>
         <source>refresh script</source>
-        <translation>Làm mới kịch bản</translation>
+        <translation>refresh script</translation>
     </message>
     <message>
-    <source>get device IP</source>
-    <translation>Lấy địa chỉ IP của thiết bị</translation>
+        <source>get device IP</source>
+        <translation>get device IP</translation>
     </message>
     <message>
         <source>USB line</source>
-        <translation>Dây USB</translation>
+        <translation>USB line</translation>
     </message>
     <message>
         <source>stop server</source>
-        <translation>Dừng máy chủ</translation>
+        <translation>stop server</translation>
     </message>
     <message>
         <source>start server</source>
-        <translation>Bắt đầu máy chủ</translation>
+        <translation>start server</translation>
     </message>
     <message>
         <source>device serial:</source>
-        <translation>Số serial thiết bị:</translation>
+        <translation>device serial:</translation>
     </message>
     <message>
         <source>bit rate:</source>
-        <translation>Tốc độ bit:</translation>
+        <translation>bit rate:</translation>
     </message>
     <message>
         <source>start adbd</source>
-        <translation>Bắt đầu adbd</translation>
+        <translation>start adbd</translation>
     </message>
     <message>
         <source>refresh devices</source>
-        <translation>Làm mới danh sách thiết bị</translation>
+        <translation>refresh devices</translation>
     </message>
     <message>
         <source>install sndcpy</source>
-        <translation>Cài đặt sndcpy</translation>
+        <translation>install sndcpy</translation>
     </message>
     <message>
         <source>start audio</source>
-        <translation>Bắt đầu âm thanh</translation>
+        <translation>start audio</translation>
     </message>
     <message>
         <source>stop audio</source>
-        <translation>Dừng âm thanh</translation>
+        <translation>stop audio</translation>
     </message>
     <message>
         <source>auto update</source>
-        <translation>Cập nhật tự động</translation>
+        <translation>auto update</translation>
     </message>
 </context>
 </TS>
