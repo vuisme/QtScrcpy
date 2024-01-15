@@ -4,290 +4,283 @@
 <context>
     <name>Dialog</name>
     <message>
-        <source>show</source>
-        <translation>显示</translation>
+        <source>Show</source>
+        <translation>Hiển thị</translation>
     </message>
     <message>
-        <source>quit</source>
-        <translation>退出</translation>
+        <source>Quit</source>
+        <translation>Thoát</translation>
     </message>
     <message>
-        <source>original</source>
-        <translation>原始</translation>
+        <source>Original</source>
+        <translation>Nguyên bản</translation>
     </message>
     <message>
-        <source>no lock</source>
-        <translation>不锁定</translation>
+        <source>No Lock</source>
+        <translation>Không khóa</translation>
     </message>
     <message>
         <source>Notice</source>
-        <translation>提示</translation>
+        <translation>Thông báo</translation>
     </message>
     <message>
         <source>Hidden here!</source>
-        <translation>安卓录屏程序隐藏在这！</translation>
+        <translation>Ẩn ở đây!</translation>
     </message>
     <message>
-        <source>select path</source>
-        <translation>选择路径</translation>
+        <source>Select Path</source>
+        <translation>Chọn đường dẫn</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>This software is completely open source and free. Use it at your own risk. You can download it at the following address:</source>
-        <translation>本软件完全开源免费，作者不对使用该软件产生的一切后果负责。你可以在以下地址下载：</translation>
+        <translation>Phần mềm này hoàn toàn mã nguồn mở và miễn phí. Sử dụng tại rủi ro của bạn. Bạn có thể tải nó tại địa chỉ sau:</translation>
     </message>
 </context>
 <context>
     <name>ToolForm</name>
     <message>
         <source>Tool</source>
-        <translation>工具</translation>
+        <translation>Công cụ</translation>
     </message>
     <message>
-        <source>full screen</source>
-        <translation>全屏</translation>
+        <source>Full Screen</source>
+        <translation>Toàn màn hình</translation>
     </message>
     <message>
-        <source>expand notify</source>
-        <translation>下拉通知</translation>
+        <source>Expand Notify</source>
+        <translation>Mở rộng thông báo</translation>
     </message>
     <message>
-        <source>touch switch</source>
-        <translation>触摸显示开关</translation>
+        <source>Touch Switch</source>
+        <translation>Chuyển đổi cảm ứng</translation>
     </message>
     <message>
-        <source>close screen</source>
-        <translation>关闭屏幕</translation>
+        <source>Close Screen</source>
+        <translation>Đóng màn hình</translation>
     </message>
     <message>
-        <source>power</source>
-        <translation>电源</translation>
+        <source>Power</source>
+        <translation>Nguồn</translation>
     </message>
     <message>
-        <source>volume up</source>
-        <translation>音量加</translation>
+        <source>Volume Up</source>
+        <translation>Tăng âm lượng</translation>
     </message>
     <message>
-        <source>volume down</source>
-        <translation>音量减</translation>
+        <source>Volume Down</source>
+        <translation>Giảm âm lượng</translation>
     </message>
     <message>
-        <source>app switch</source>
-        <translation>切换应用</translation>
+        <source>App Switch</source>
+        <translation>Chuyển đổi ứng dụng</translation>
     </message>
     <message>
-        <source>menu</source>
-        <translation>菜单</translation>
-    </message>
-    <message>
-        <source>home</source>
-        <translation>主界面</translation>
-    </message>
-    <message>
-        <source>return</source>
-        <translation>返回</translation>
-    </message>
-    <message>
-        <source>screen shot</source>
-        <translation>截图</translation>
-    </message>
-    <message>
-        <source>open screen</source>
-        <translation>打开屏幕</translation>
-    </message>
-    <message>
-        <source>group control</source>
-        <translation>群控</translation>
-    </message>
-</context>
+    <source>menu</source>
+    <translation>Danh sách</translation>
+</message>
+<message>
+    <source>home</source>
+    <translation>Trang chủ</translation>
+</message>
+<message>
+    <source>return</source>
+    <translation>Quay lại</translation>
+</message>
+<message>
+    <source>screen shot</source>
+    <translation>Chụp ảnh màn hình</translation>
+</message>
+<message>
+    <source>open screen</source>
+    <translation>Mở màn hình</translation>
+</message>
+<message>
+    <source>group control</source>
+    <translation>Kiểm soát nhóm</translation>
+</message>
 <context>
     <name>VideoForm</name>
     <message>
         <source>file does not exist</source>
-        <translation>文件不存在</translation>
+        <translation>Tệp tin không tồn tại</translation>
     </message>
 </context>
 <context>
     <name>Widget</name>
     <message>
         <source>Wireless</source>
-        <translation>无线</translation>
+        <translation>Không dây</translation>
     </message>
     <message>
         <source>wireless connect</source>
-        <translation>无线连接</translation>
+        <translation>Kết nối không dây</translation>
     </message>
     <message>
         <source>wireless disconnect</source>
-        <translation>无线断开</translation>
+        <translation>Ngắt kết nối không dây</translation>
     </message>
     <message>
         <source>Start Config</source>
-        <translation>启动配置</translation>
+        <translation>Bắt đầu Cấu hình</translation>
     </message>
     <message>
         <source>record save path:</source>
-        <translation>录像保存路径：</translation>
+        <translation>Đường dẫn lưu ghi âm:</translation>
     </message>
     <message>
         <source>select path</source>
-        <translation>选择路径</translation>
+        <translation>Chọn đường dẫn</translation>
     </message>
     <message>
         <source>record format：</source>
-        <translation>录制格式：</translation>
+        <translation>Định dạng ghi âm：</translation>
     </message>
     <message>
         <source>record screen</source>
-        <translation>录制屏幕</translation>
+        <translation>Ghi màn hình</translation>
     </message>
     <message>
         <source>frameless</source>
-        <translation>无边框</translation>
+        <translation>Không khung</translation>
     </message>
     <message>
         <source>Use Simple Mode</source>
-        <translatorcomment>启用精简模式</translatorcomment>
-        <translation>启用精简模式</translation>
+        <translation>Sử dụng Chế độ Đơn giản</translation>
     </message>
     <message>
         <source>Simple Mode</source>
-        <translatorcomment>精简模式</translatorcomment>
-        <translation>精简模式</translation>
+        <translation>Chế độ Đơn giản</translation>
     </message>
     <message>
         <source>WIFI Connect</source>
-        <translatorcomment>一键WIFI连接</translatorcomment>
-        <translation>一键WIFI连接</translation>
+        <translation>Kết nối WIFI</translation>
     </message>
     <message>
         <source>USB Connect</source>
-        <translatorcomment>一键USB连接</translatorcomment>
-        <translation>一键USB连接</translation>
+        <translation>Kết nối USB</translation>
     </message>
     <message>
-        <source>Double click to connect:</source>
-        <translation>双击连接：</translation>
+    <source>Double click to connect:</source>
+    <translation>Nhấn đúp để kết nối:</translation>
     </message>
     <message>
         <source>lock orientation:</source>
-        <translation>锁定方向：</translation>
+        <translation>Khóa hướng:</translation>
     </message>
     <message>
         <source>show fps</source>
-        <translation>显示fps</translation>
+        <translation>Hiển thị fps</translation>
     </message>
     <message>
         <source>stay awake</source>
-        <translation>保持唤醒</translation>
+        <translation>Giữ tỉnh</translation>
     </message>
     <message>
         <source>device name:</source>
-        <translatorcomment>设备名称:</translatorcomment>
-        <translation>设备名称:</translation>
+        <translation>Tên thiết bị:</translation>
     </message>
     <message>
         <source>update name</source>
-        <translatorcomment>更新设置名称</translatorcomment>
-        <translation>更新设置名称</translation>
+        <translation>Cập nhật tên</translation>
     </message>
     <message>
         <source>stop all server</source>
-        <translation>停止所有服务</translation>
+        <translation>Dừng tất cả các máy chủ</translation>
     </message>
     <message>
         <source>adb command:</source>
-        <translation>adb命令：</translation>
+        <translation>Lệnh adb:</translation>
     </message>
     <message>
         <source>terminate</source>
-        <translation>终止</translation>
+        <translation>Kết thúc</translation>
     </message>
     <message>
         <source>execute</source>
-        <translation>执行</translation>
+        <translation>Thực hiện</translation>
     </message>
     <message>
         <source>clear</source>
-        <translation>清理</translation>
+        <translation>Xóa</translation>
     </message>
     <message>
         <source>reverse connection</source>
-        <translation>反向连接</translation>
+        <translation>Kết nối ngược</translation>
     </message>
     <message>
         <source>background record</source>
-        <translation>后台录制</translation>
+        <translation>Ghi âm nền</translation>
     </message>
     <message>
         <source>screen-off</source>
-        <translation>自动息屏</translation>
+        <translation>Tắt màn hình</translation>
     </message>
     <message>
         <source>apply</source>
-        <translation>应用脚本</translation>
+        <translation>Áp dụng</translation>
     </message>
     <message>
         <source>max size:</source>
-        <translation>最大尺寸：</translation>
+        <translation>Kích thước tối đa:</translation>
     </message>
     <message>
         <source>always on top</source>
-        <translation>窗口置顶</translation>
+        <translation>Luôn ở trên cùng</translation>
     </message>
     <message>
         <source>refresh script</source>
-        <translation>刷新脚本</translation>
+        <translation>Làm mới kịch bản</translation>
     </message>
     <message>
-        <source>get device IP</source>
-        <translation>获取设备IP</translation>
+    <source>get device IP</source>
+    <translation>Lấy địa chỉ IP của thiết bị</translation>
     </message>
     <message>
         <source>USB line</source>
-        <translation>USB线</translation>
+        <translation>Dây USB</translation>
     </message>
     <message>
         <source>stop server</source>
-        <translation>停止服务</translation>
+        <translation>Dừng máy chủ</translation>
     </message>
     <message>
         <source>start server</source>
-        <translation>启动服务</translation>
+        <translation>Bắt đầu máy chủ</translation>
     </message>
     <message>
         <source>device serial:</source>
-        <translation>设备序列号：</translation>
+        <translation>Số serial thiết bị:</translation>
     </message>
     <message>
         <source>bit rate:</source>
-        <translation>比特率：</translation>
+        <translation>Tốc độ bit:</translation>
     </message>
     <message>
         <source>start adbd</source>
-        <translation>启动adbd</translation>
+        <translation>Bắt đầu adbd</translation>
     </message>
     <message>
         <source>refresh devices</source>
-        <translation>刷新设备列表</translation>
+        <translation>Làm mới danh sách thiết bị</translation>
     </message>
     <message>
         <source>install sndcpy</source>
-        <translation>安装sndcpy</translation>
+        <translation>Cài đặt sndcpy</translation>
     </message>
     <message>
         <source>start audio</source>
-        <translation>开始音频</translation>
+        <translation>Bắt đầu âm thanh</translation>
     </message>
     <message>
         <source>stop audio</source>
-        <translation>停止音频</translation>
+        <translation>Dừng âm thanh</translation>
     </message>
     <message>
         <source>auto update</source>
-        <translation>自动刷新</translation>
+        <translation>Cập nhật tự động</translation>
     </message>
 </context>
 </TS>
